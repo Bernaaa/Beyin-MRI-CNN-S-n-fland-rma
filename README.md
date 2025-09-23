@@ -25,6 +25,7 @@ Bu proje, beyin MR görüntülerini sınıflandırmak için CNN (Convolutional N
   - Epoch: 12
   - Validation Loss: 0.4136
   - Validation Accuracy: 0.8391
+*Kaggle Linki: https://www.kaggle.com/code/geneticat/brain-tumor-cnn-classification-bootcamp/edit
 
 ## Kullanım
 ```bash
