@@ -1,4 +1,4 @@
-# Beyin-MRI-CNN-S-n-fland-rma
+# Beyin-MRI-CNN-Sınıflandırma
 Eğitim/doğrulama değerlendirmesi ve raporlama ile beyin MRG sınıflandırması için CNN modeli.
 
 ## Projenin Amacı
